@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+button{
+    border: none;
+    background: none;
+}
+.header, .footer{
+    background: paleturquoise;
+}
+.footer{
+    margin-bottom: 0 !important;
+}
+/*QUERY*/
+@media (max-width: 1000px){
+    .my-photo{
+        width: 250px;
+        height: 300px;
+    }
+}
