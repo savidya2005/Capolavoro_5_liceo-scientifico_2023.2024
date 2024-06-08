@@ -16,6 +16,9 @@ button{
 .footer{
     margin-bottom: 0 !important;
 }
+.my-photo{
+    border: 1px solid purple;
+}
 /*QUERY*/
 @media (max-width: 1000px){
     .my-photo{
